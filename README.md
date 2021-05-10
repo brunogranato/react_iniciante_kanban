@@ -1,2 +1,3 @@
 # react_iniciante_kanban
-Created with CodeSandbox
+
+link para o projeto [aqui](https://1k28t.csb.app/)
